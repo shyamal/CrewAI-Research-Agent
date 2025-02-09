@@ -1,0 +1,13 @@
+prefix=/Users/Development/AI/CrewaiResearchAgent/venv
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+modules=1
+
+Name: libXML
+Version: 2.13.5
+Description: libXML library version2.
+Requires.private:  icu-i18n
+Libs: -L${libdir} -lxml2 
+Libs.private:  -L/Users/Development/AI/CrewaiResearchAgent/venv/lib -lz -L/Users/Development/AI/CrewaiResearchAgent/venv/lib -llzma  -L/Users/Development/AI/CrewaiResearchAgent/venv/lib -liconv    
+Cflags: -I${includedir}/libxml2 -I/Users/Development/AI/CrewaiResearchAgent/venv/include 

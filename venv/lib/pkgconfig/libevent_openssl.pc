@@ -1,0 +1,16 @@
+#libevent pkg-config source file
+
+prefix=/Users/Development/AI/CrewaiResearchAgent/venv
+exec_prefix=/Users/Development/AI/CrewaiResearchAgent/venv
+libdir=/Users/Development/AI/CrewaiResearchAgent/venv/lib
+includedir=/Users/Development/AI/CrewaiResearchAgent/venv/include
+
+Name: libevent_openssl
+Description: libevent_openssl adds openssl-based TLS support to libevent
+Version: 2.1.12
+Requires: libevent
+Conflicts:
+Libs: -L${libdir} -levent_openssl
+Libs.private:   -L/Users/Development/AI/CrewaiResearchAgent/venv/lib/libssl.dylib -L/Users/Development/AI/CrewaiResearchAgent/venv/lib/libcrypto.dylib
+Cflags: -I${includedir} 
+

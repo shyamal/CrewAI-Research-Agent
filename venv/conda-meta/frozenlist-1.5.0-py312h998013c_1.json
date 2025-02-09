@@ -1,0 +1,152 @@
+{
+  "build": "py312h998013c_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "__osx >=11.0",
+    "python_abi 3.12.* *_cp312",
+    "python >=3.12,<3.13.0a0",
+    "python >=3.12,<3.13.0a0 *_cpython"
+  ],
+  "extracted_package_dir": "/opt/anaconda3/pkgs/frozenlist-1.5.0-py312h998013c_1",
+  "features": "",
+  "files": [
+    "lib/python3.12/site-packages/frozenlist-1.5.0.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/frozenlist-1.5.0.dist-info/LICENSE",
+    "lib/python3.12/site-packages/frozenlist-1.5.0.dist-info/METADATA",
+    "lib/python3.12/site-packages/frozenlist-1.5.0.dist-info/RECORD",
+    "lib/python3.12/site-packages/frozenlist-1.5.0.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/frozenlist-1.5.0.dist-info/WHEEL",
+    "lib/python3.12/site-packages/frozenlist-1.5.0.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/frozenlist-1.5.0.dist-info/top_level.txt",
+    "lib/python3.12/site-packages/frozenlist/__init__.py",
+    "lib/python3.12/site-packages/frozenlist/__init__.pyi",
+    "lib/python3.12/site-packages/frozenlist/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/frozenlist/_frozenlist.cpython-312-darwin.so",
+    "lib/python3.12/site-packages/frozenlist/_frozenlist.pyx",
+    "lib/python3.12/site-packages/frozenlist/py.typed"
+  ],
+  "fn": "frozenlist-1.5.0-py312h998013c_1.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "/opt/anaconda3/pkgs/frozenlist-1.5.0-py312h998013c_1",
+    "type": 1
+  },
+  "md5": "5eb3715c7e3fa9b533361375bfefe6ee",
+  "name": "frozenlist",
+  "package_tarball_full_path": "/opt/anaconda3/pkgs/frozenlist-1.5.0-py312h998013c_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.12/site-packages/frozenlist-1.5.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.12/site-packages/frozenlist-1.5.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "6fd5243e92dd7f98ec69c7ac377728e74905709ff527a5bf98d6d0263c04f5b6",
+        "sha256_in_prefix": "6fd5243e92dd7f98ec69c7ac377728e74905709ff527a5bf98d6d0263c04f5b6",
+        "size_in_bytes": 11332
+      },
+      {
+        "_path": "lib/python3.12/site-packages/frozenlist-1.5.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "25d60d2779159de3b64cad215c2013b0b2e32800f87fe197eedbe394694126f9",
+        "sha256_in_prefix": "25d60d2779159de3b64cad215c2013b0b2e32800f87fe197eedbe394694126f9",
+        "size_in_bytes": 13762
+      },
+      {
+        "_path": "lib/python3.12/site-packages/frozenlist-1.5.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "cbb6168377fa1ee9f05cb4a3c4fa2cf1b95b2940b4dc09f4d6fe15f94b83b794",
+        "sha256_in_prefix": "cbb6168377fa1ee9f05cb4a3c4fa2cf1b95b2940b4dc09f4d6fe15f94b83b794",
+        "size_in_bytes": 1163
+      },
+      {
+        "_path": "lib/python3.12/site-packages/frozenlist-1.5.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.12/site-packages/frozenlist-1.5.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "56e8ccdf2a530b2516ea17130dd2b67a3d00455331954d438e587fcd69c382a9",
+        "sha256_in_prefix": "56e8ccdf2a530b2516ea17130dd2b67a3d00455331954d438e587fcd69c382a9",
+        "size_in_bytes": 109
+      },
+      {
+        "_path": "lib/python3.12/site-packages/frozenlist-1.5.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "ce944c616d71a0864bfa23291fb339a57393ad7986fc37ba48a89872f941e4ef",
+        "sha256_in_prefix": "ce944c616d71a0864bfa23291fb339a57393ad7986fc37ba48a89872f941e4ef",
+        "size_in_bytes": 98
+      },
+      {
+        "_path": "lib/python3.12/site-packages/frozenlist-1.5.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "8e2bedc6c3d70379cadd60565b62d6e4cb6efc61edf14640d7735e0acd9c2ae0",
+        "sha256_in_prefix": "8e2bedc6c3d70379cadd60565b62d6e4cb6efc61edf14640d7735e0acd9c2ae0",
+        "size_in_bytes": 11
+      },
+      {
+        "_path": "lib/python3.12/site-packages/frozenlist/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "ca656d9d6dcc8a73be531ddc063fcf2c4a579e62dac24e397a5f2f717e889166",
+        "sha256_in_prefix": "ca656d9d6dcc8a73be531ddc063fcf2c4a579e62dac24e397a5f2f717e889166",
+        "size_in_bytes": 2371
+      },
+      {
+        "_path": "lib/python3.12/site-packages/frozenlist/__init__.pyi",
+        "path_type": "hardlink",
+        "sha256": "bcc128112d7119e80fb555e80a2f57c9d11e1eccae22af8a75e5f03f93ddb1a0",
+        "sha256_in_prefix": "bcc128112d7119e80fb555e80a2f57c9d11e1eccae22af8a75e5f03f93ddb1a0",
+        "size_in_bytes": 1470
+      },
+      {
+        "_path": "lib/python3.12/site-packages/frozenlist/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "add33e559fac845612893cd013d4b8e24d9353bc25fe1cd846d60e9a3f848e59",
+        "sha256_in_prefix": "add33e559fac845612893cd013d4b8e24d9353bc25fe1cd846d60e9a3f848e59",
+        "size_in_bytes": 4426
+      },
+      {
+        "_path": "lib/python3.12/site-packages/frozenlist/_frozenlist.cpython-312-darwin.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/runner/miniforge3/conda-bld/frozenlist_1737645287563/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
+        "sha256": "301223d952c9acbbcc4706e2252b6bd85d7a2c7d6765d9813015b947d304c4af",
+        "sha256_in_prefix": "489efcc46d8e3c1c2df59c50e9ee15cbf19840f96f60444485d428803cbde05e",
+        "size_in_bytes": 141888
+      },
+      {
+        "_path": "lib/python3.12/site-packages/frozenlist/_frozenlist.pyx",
+        "path_type": "hardlink",
+        "sha256": "e18b6eadc94d17bc22a0eed85f757397b2dd6f6fa2b307ba52b8c938c292b305",
+        "sha256_in_prefix": "e18b6eadc94d17bc22a0eed85f757397b2dd6f6fa2b307ba52b8c938c292b305",
+        "size_in_bytes": 2993
+      },
+      {
+        "_path": "lib/python3.12/site-packages/frozenlist/py.typed",
+        "path_type": "hardlink",
+        "sha256": "b28c3db284f03fd4ff80401049587b19bf3ce79874e0dc2686cd967be2518193",
+        "sha256_in_prefix": "b28c3db284f03fd4ff80401049587b19bf3ce79874e0dc2686cd967be2518193",
+        "size_in_bytes": 7
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "d503ac8c050abdbd129253973f23be34944978d510de78ef5a3e6aa1e3d9552d",
+  "size": 57256,
+  "subdir": "osx-arm64",
+  "timestamp": 1737645503000,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/osx-arm64/frozenlist-1.5.0-py312h998013c_1.conda",
+  "version": "1.5.0"
+}

@@ -1,0 +1,10 @@
+prefix=/Users/Development/AI/CrewaiResearchAgent/venv
+exec_prefix=/Users/Development/AI/CrewaiResearchAgent/venv
+libdir=/Users/Development/AI/CrewaiResearchAgent/venv/lib
+includedir=/Users/Development/AI/CrewaiResearchAgent/venv/include
+
+Name: libturbojpeg
+Description: A SIMD-accelerated JPEG codec that provides the TurboJPEG API
+Version: 3.0.0
+Libs: -L${libdir} -lturbojpeg
+Cflags: -I${includedir}

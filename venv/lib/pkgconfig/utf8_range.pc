@@ -1,0 +1,11 @@
+prefix=/Users/Development/AI/CrewaiResearchAgent/venv
+exec_prefix=/Users/Development/AI/CrewaiResearchAgent/venv
+libdir=/Users/Development/AI/CrewaiResearchAgent/venv/lib
+includedir=/Users/Development/AI/CrewaiResearchAgent/venv/include
+
+Name: UTF8 Range
+Description: Google's UTF8 Library
+Version: 1.0
+Requires: absl_strings
+Libs: -L${libdir} -lutf8_validity -lutf8_range 
+Cflags: -I${includedir}

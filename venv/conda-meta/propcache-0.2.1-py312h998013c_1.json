@@ -1,0 +1,200 @@
+{
+  "build": "py312h998013c_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "__osx >=11.0",
+    "python_abi 3.12.* *_cp312",
+    "python >=3.12,<3.13.0a0",
+    "python >=3.12,<3.13.0a0 *_cpython"
+  ],
+  "extracted_package_dir": "/opt/anaconda3/pkgs/propcache-0.2.1-py312h998013c_1",
+  "features": "",
+  "files": [
+    "lib/python3.12/site-packages/propcache-0.2.1.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/propcache-0.2.1.dist-info/LICENSE",
+    "lib/python3.12/site-packages/propcache-0.2.1.dist-info/METADATA",
+    "lib/python3.12/site-packages/propcache-0.2.1.dist-info/NOTICE",
+    "lib/python3.12/site-packages/propcache-0.2.1.dist-info/RECORD",
+    "lib/python3.12/site-packages/propcache-0.2.1.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/propcache-0.2.1.dist-info/WHEEL",
+    "lib/python3.12/site-packages/propcache-0.2.1.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/propcache-0.2.1.dist-info/top_level.txt",
+    "lib/python3.12/site-packages/propcache/__init__.py",
+    "lib/python3.12/site-packages/propcache/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/propcache/__pycache__/_helpers.cpython-312.pyc",
+    "lib/python3.12/site-packages/propcache/__pycache__/_helpers_py.cpython-312.pyc",
+    "lib/python3.12/site-packages/propcache/__pycache__/api.cpython-312.pyc",
+    "lib/python3.12/site-packages/propcache/_helpers.py",
+    "lib/python3.12/site-packages/propcache/_helpers_c.cpython-312-darwin.so",
+    "lib/python3.12/site-packages/propcache/_helpers_c.pyx",
+    "lib/python3.12/site-packages/propcache/_helpers_py.py",
+    "lib/python3.12/site-packages/propcache/api.py",
+    "lib/python3.12/site-packages/propcache/py.typed"
+  ],
+  "fn": "propcache-0.2.1-py312h998013c_1.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "/opt/anaconda3/pkgs/propcache-0.2.1-py312h998013c_1",
+    "type": 1
+  },
+  "md5": "83678928c58c9ae76778a435b6c7a94a",
+  "name": "propcache",
+  "package_tarball_full_path": "/opt/anaconda3/pkgs/propcache-0.2.1-py312h998013c_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.12/site-packages/propcache-0.2.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.12/site-packages/propcache-0.2.1.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+        "sha256_in_prefix": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+        "size_in_bytes": 11358
+      },
+      {
+        "_path": "lib/python3.12/site-packages/propcache-0.2.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "7011778cb53ce3d10bbd624730903155b0e3c7b945634654ec25f5636fe9e6d6",
+        "sha256_in_prefix": "7011778cb53ce3d10bbd624730903155b0e3c7b945634654ec25f5636fe9e6d6",
+        "size_in_bytes": 9176
+      },
+      {
+        "_path": "lib/python3.12/site-packages/propcache-0.2.1.dist-info/NOTICE",
+        "path_type": "hardlink",
+        "sha256": "56d6ac6c8105c0a51304c21db060e361af9a8ea0af9a75c239c28b5d13693838",
+        "sha256_in_prefix": "56d6ac6c8105c0a51304c21db060e361af9a8ea0af9a75c239c28b5d13693838",
+        "size_in_bytes": 609
+      },
+      {
+        "_path": "lib/python3.12/site-packages/propcache-0.2.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "da639a18b700c5f2af3ffcfdbb142570a891dbb44d43d3061fa87026e3bc9e84",
+        "sha256_in_prefix": "da639a18b700c5f2af3ffcfdbb142570a891dbb44d43d3061fa87026e3bc9e84",
+        "size_in_bytes": 1537
+      },
+      {
+        "_path": "lib/python3.12/site-packages/propcache-0.2.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.12/site-packages/propcache-0.2.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "56e8ccdf2a530b2516ea17130dd2b67a3d00455331954d438e587fcd69c382a9",
+        "sha256_in_prefix": "56e8ccdf2a530b2516ea17130dd2b67a3d00455331954d438e587fcd69c382a9",
+        "size_in_bytes": 109
+      },
+      {
+        "_path": "lib/python3.12/site-packages/propcache-0.2.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "6d2aa283b4657ef8a30d84fde8a3c95899dd9c97280fd4d1c7c3ca798823c0ca",
+        "sha256_in_prefix": "6d2aa283b4657ef8a30d84fde8a3c95899dd9c97280fd4d1c7c3ca798823c0ca",
+        "size_in_bytes": 97
+      },
+      {
+        "_path": "lib/python3.12/site-packages/propcache-0.2.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "a5517f19ba920084cf3225f6ee47d4dd03fdfae7e146f9000e6b9d0f159d177c",
+        "sha256_in_prefix": "a5517f19ba920084cf3225f6ee47d4dd03fdfae7e146f9000e6b9d0f159d177c",
+        "size_in_bytes": 10
+      },
+      {
+        "_path": "lib/python3.12/site-packages/propcache/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "ce6d3ff1692e0ab59efeafc57d5cbf0f7462131f8f39a67dbe20f8ceb8dd233e",
+        "sha256_in_prefix": "ce6d3ff1692e0ab59efeafc57d5cbf0f7462131f8f39a67dbe20f8ceb8dd233e",
+        "size_in_bytes": 965
+      },
+      {
+        "_path": "lib/python3.12/site-packages/propcache/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "911ed69f3b8e28a0abf6ab0712c0a13a571ceabd9c73ace96a8fc7b13fd6addd",
+        "sha256_in_prefix": "911ed69f3b8e28a0abf6ab0712c0a13a571ceabd9c73ace96a8fc7b13fd6addd",
+        "size_in_bytes": 1245
+      },
+      {
+        "_path": "lib/python3.12/site-packages/propcache/__pycache__/_helpers.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "dedc118fcaf8112ae12751e7473ca088761e11e947cf5b2012ce956df878bfa4",
+        "sha256_in_prefix": "dedc118fcaf8112ae12751e7473ca088761e11e947cf5b2012ce956df878bfa4",
+        "size_in_bytes": 988
+      },
+      {
+        "_path": "lib/python3.12/site-packages/propcache/__pycache__/_helpers_py.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "21b5d4d1314371f0c68ff19f58a1474fedbece12121cfa3e4485f991b0699916",
+        "sha256_in_prefix": "21b5d4d1314371f0c68ff19f58a1474fedbece12121cfa3e4485f991b0699916",
+        "size_in_bytes": 3040
+      },
+      {
+        "_path": "lib/python3.12/site-packages/propcache/__pycache__/api.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "40dc5eb825ce6d54dd83a2cf7f5d55bb1c78c14a7f61bfbd08946f449c63238f",
+        "sha256_in_prefix": "40dc5eb825ce6d54dd83a2cf7f5d55bb1c78c14a7f61bfbd08946f449c63238f",
+        "size_in_bytes": 306
+      },
+      {
+        "_path": "lib/python3.12/site-packages/propcache/_helpers.py",
+        "path_type": "hardlink",
+        "sha256": "f029e55a67d333a4436ccbcd0d7c0bf953075a2c085231bc9db7aa9af46c6e1f",
+        "sha256_in_prefix": "f029e55a67d333a4436ccbcd0d7c0bf953075a2c085231bc9db7aa9af46c6e1f",
+        "size_in_bytes": 1579
+      },
+      {
+        "_path": "lib/python3.12/site-packages/propcache/_helpers_c.cpython-312-darwin.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/runner/miniforge3/conda-bld/propcache_1737635647354/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold",
+        "sha256": "7df76494fd75bc1b38656b2548a0743d2124f6d0a16d2acd8ddc3cc909e910b1",
+        "sha256_in_prefix": "e699c939a2c9a9de64c96e05ac64e716919df10959953582040c3e7579aefeff",
+        "size_in_bytes": 121472
+      },
+      {
+        "_path": "lib/python3.12/site-packages/propcache/_helpers_c.pyx",
+        "path_type": "hardlink",
+        "sha256": "f29e90464b6acf71adee893813b9c89a4135ddcad1b3022e22034299e9d4743d",
+        "sha256_in_prefix": "f29e90464b6acf71adee893813b9c89a4135ddcad1b3022e22034299e9d4743d",
+        "size_in_bytes": 2487
+      },
+      {
+        "_path": "lib/python3.12/site-packages/propcache/_helpers_py.py",
+        "path_type": "hardlink",
+        "sha256": "8e72ba5b8de21132dc5be03558cae81942a7125cd7f03af0d9441f6c4a8b948f",
+        "sha256_in_prefix": "8e72ba5b8de21132dc5be03558cae81942a7125cd7f03af0d9441f6c4a8b948f",
+        "size_in_bytes": 1637
+      },
+      {
+        "_path": "lib/python3.12/site-packages/propcache/api.py",
+        "path_type": "hardlink",
+        "sha256": "c2f801fb2a64908e6e7fbd9555897634519cfd39f35100360b10bb75394be5a9",
+        "sha256_in_prefix": "c2f801fb2a64908e6e7fbd9555897634519cfd39f35100360b10bb75394be5a9",
+        "size_in_bytes": 179
+      },
+      {
+        "_path": "lib/python3.12/site-packages/propcache/py.typed",
+        "path_type": "hardlink",
+        "sha256": "6b2e4e30ee3be4f95c67f15bba7f666875bb63a3014e4d145cbe33b47c7722e8",
+        "sha256_in_prefix": "6b2e4e30ee3be4f95c67f15bba7f666875bb63a3014e4d145cbe33b47c7722e8",
+        "size_in_bytes": 14
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "96145760baad111d7ae4213ea8f8cc035cf33b001f5ff37d92268e4d28b0941d",
+  "size": 50942,
+  "subdir": "osx-arm64",
+  "timestamp": 1737635896000,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/osx-arm64/propcache-0.2.1-py312h998013c_1.conda",
+  "version": "0.2.1"
+}

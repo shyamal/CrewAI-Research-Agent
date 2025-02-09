@@ -1,0 +1,16 @@
+#libevent pkg-config source file
+
+prefix=/Users/Development/AI/CrewaiResearchAgent/venv
+exec_prefix=/Users/Development/AI/CrewaiResearchAgent/venv
+libdir=/Users/Development/AI/CrewaiResearchAgent/venv/lib
+includedir=/Users/Development/AI/CrewaiResearchAgent/venv/include
+
+Name: libevent
+Description: libevent is an asynchronous notification event loop library
+Version: 2.1.12
+Requires:
+Conflicts:
+Libs: -L${libdir} -levent
+Libs.private: 
+Cflags: -I${includedir}
+

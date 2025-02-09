@@ -1,0 +1,103 @@
+{
+  "build": "hf07054f_8_cpu",
+  "build_number": 8,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "__osx >=11.0",
+    "libarrow 19.0.0 h819e3af_8_cpu",
+    "libarrow-acero 19.0.0 hf07054f_8_cpu",
+    "libcxx >=18",
+    "libparquet 19.0.0 h636d7b7_8_cpu"
+  ],
+  "extracted_package_dir": "/opt/anaconda3/pkgs/libarrow-dataset-19.0.0-hf07054f_8_cpu",
+  "features": "",
+  "files": [
+    "lib/cmake/ArrowDataset/ArrowDatasetConfig.cmake",
+    "lib/cmake/ArrowDataset/ArrowDatasetConfigVersion.cmake",
+    "lib/cmake/ArrowDataset/ArrowDatasetTargets-release.cmake",
+    "lib/cmake/ArrowDataset/ArrowDatasetTargets.cmake",
+    "lib/libarrow_dataset.1900.0.0.dylib",
+    "lib/libarrow_dataset.1900.dylib",
+    "lib/libarrow_dataset.dylib",
+    "lib/pkgconfig/arrow-dataset.pc"
+  ],
+  "fn": "libarrow-dataset-19.0.0-hf07054f_8_cpu.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "/opt/anaconda3/pkgs/libarrow-dataset-19.0.0-hf07054f_8_cpu",
+    "type": 1
+  },
+  "md5": "1a941d1ddc16b532790781a4becdc881",
+  "name": "libarrow-dataset",
+  "package_tarball_full_path": "/opt/anaconda3/pkgs/libarrow-dataset-19.0.0-hf07054f_8_cpu.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/cmake/ArrowDataset/ArrowDatasetConfig.cmake",
+        "path_type": "hardlink",
+        "sha256": "33afca751758bda3bd6bbd7bb12927452d7e77670e3965bd11e1fc356cbf16bf",
+        "sha256_in_prefix": "33afca751758bda3bd6bbd7bb12927452d7e77670e3965bd11e1fc356cbf16bf",
+        "size_in_bytes": 2485
+      },
+      {
+        "_path": "lib/cmake/ArrowDataset/ArrowDatasetConfigVersion.cmake",
+        "path_type": "hardlink",
+        "sha256": "c90639036876e249e36c0989648bba3548f3e81a8c30f3ffa6fe103c01eaa66b",
+        "sha256_in_prefix": "c90639036876e249e36c0989648bba3548f3e81a8c30f3ffa6fe103c01eaa66b",
+        "size_in_bytes": 2765
+      },
+      {
+        "_path": "lib/cmake/ArrowDataset/ArrowDatasetTargets-release.cmake",
+        "path_type": "hardlink",
+        "sha256": "8ae08bcd71962e8bd6473291f50a639516616e99a790ef5953806d22e991906b",
+        "sha256_in_prefix": "8ae08bcd71962e8bd6473291f50a639516616e99a790ef5953806d22e991906b",
+        "size_in_bytes": 1266
+      },
+      {
+        "_path": "lib/cmake/ArrowDataset/ArrowDatasetTargets.cmake",
+        "path_type": "hardlink",
+        "sha256": "5305b21cb2f0b3478821c0ca19436f0fe3b2e51157955be80d6941297698419b",
+        "sha256_in_prefix": "5305b21cb2f0b3478821c0ca19436f0fe3b2e51157955be80d6941297698419b",
+        "size_in_bytes": 4290
+      },
+      {
+        "_path": "lib/libarrow_dataset.1900.0.0.dylib",
+        "path_type": "hardlink",
+        "sha256": "9edeacd8aea5462e050386b5086843c694a4d24edd9e855739798f492ae225af",
+        "sha256_in_prefix": "9edeacd8aea5462e050386b5086843c694a4d24edd9e855739798f492ae225af",
+        "size_in_bytes": 2630384
+      },
+      {
+        "_path": "lib/libarrow_dataset.1900.dylib",
+        "path_type": "softlink",
+        "sha256": "9edeacd8aea5462e050386b5086843c694a4d24edd9e855739798f492ae225af",
+        "size_in_bytes": 2630384
+      },
+      {
+        "_path": "lib/libarrow_dataset.dylib",
+        "path_type": "softlink",
+        "sha256": "9edeacd8aea5462e050386b5086843c694a4d24edd9e855739798f492ae225af",
+        "size_in_bytes": 2630384
+      },
+      {
+        "_path": "lib/pkgconfig/arrow-dataset.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/runner/miniforge3/conda-bld/apache-arrow_1737803792305/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
+        "sha256": "d879030ab3f6a56fac4e6eef50eb639d2da78cb9e719b11384686190ec4490f2",
+        "sha256_in_prefix": "7a32a6b10f9ebdf4b50c0055cb6b8977b507512c86af1435a939a8d77df38fe9",
+        "size_in_bytes": 1370
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "6934ce0503472f002695d45ae12a8f2948e10e7a0b7430330a4d0d83f3e5ca27",
+  "size": 501001,
+  "subdir": "osx-arm64",
+  "timestamp": 1737807214000,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/osx-arm64/libarrow-dataset-19.0.0-hf07054f_8_cpu.conda",
+  "version": "19.0.0"
+}
