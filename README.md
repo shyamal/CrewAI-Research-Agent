@@ -68,9 +68,6 @@ streamlit run app.py
 - streamlit: Web interface framework
 - openai: OpenAI API integration (if using OpenAI models)
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
